@@ -12,8 +12,6 @@ Passionate about Blue Team operations, threat detection, and continuous learning
 - **From**: India
 - **SOC AnalystT** | **Threat Hunter** | **Blue Team Learner**
 - Hands-on experience in **SIEM investigations**, **ELK analysis**, and **security monitoring**. Passionate about detecting threats, improving investigation skills, and growing toward advanced Blue Team operations
-
-
 </details>
 <br>
 
