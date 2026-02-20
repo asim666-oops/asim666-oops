@@ -26,12 +26,18 @@ Passionate about Blue Team operations, threat detection, and continuous learning
       <img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
       <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Sysmon-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon" />
+      <img src="https://img.shields.io/badge/Windows%20Event%20IDs-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Event IDs" />
+      <img src="https://img.shields.io/badge/Phishing%20Email%20Analysis-000000?style=for-the-badge&logo=maildotru&logoColor=white" alt="Phishing Email Analysis" />
+      <img src="https://img.shields.io/badge/Threat%20Intelligence-000000?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Intelligence" />
+      <img src="https://img.shields.io/badge/Malware%20Analysis-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Malware Analysis" />
+      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap" />
+      <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
   </div>
 </div>
