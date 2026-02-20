@@ -31,6 +31,7 @@ Passionate about Blue Team operations, threat detection, and continuous learning
       <img src="https://img.shields.io/badge/Phishing%20Email%20Analysis-000000?style=for-the-badge&logo=maildotru&logoColor=white" alt="Phishing Email Analysis" />
       <img src="https://img.shields.io/badge/Threat%20Intelligence-000000?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Intelligence" />
       <img src="https://img.shields.io/badge/Malware%20Analysis-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Malware Analysis" />
+      <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
       <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap" />
       <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
