@@ -1,7 +1,7 @@
 Hello, I'm Asim 👋  
 
-I’m a SOC Analyst and aspiring Threat Hunter with hands-on experience in log analysis, SIEM investigations, and security monitoring. Skilled in **ELK Stack**, **Splunk queries** and **incident investigation** workflows.
-Passionate about Blue Team operations, threat detection, and continuous learning in networking and cybersecurity certifications. Focused on developing strong analytical skills to identify, investigate, and respond to security threats effectively.
+- I’m a SOC Analyst and aspiring Threat Hunter with hands-on experience in log analysis, SIEM investigations, and security monitoring. Skilled in **ELK Stack**, **Splunk queries** and **incident investigation** workflows.
+- Passionate about Blue Team operations, threat detection, and continuous learning in networking and cybersecurity certifications. Focused on developing strong analytical skills to identify, investigate, and respond to security threats effectively.
 
 <a href="https://www.linkedin.com/in/asim-km/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
