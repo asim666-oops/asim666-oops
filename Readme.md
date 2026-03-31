@@ -27,6 +27,7 @@ Hello, I'm Asim 👋
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
       <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
+      <img src="https://img.shields.io/badge/Wazuh-0268B2?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
       <img src="https://img.shields.io/badge/Sysmon-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon" />
       <img src="https://img.shields.io/badge/Windows%20Event%20IDs-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Event IDs" />
