@@ -1,7 +1,8 @@
 Hello, I'm Asim 👋  
 
-- I’m a SOC Analyst and aspiring Threat Hunter with hands-on experience in log analysis, SIEM investigations, and security monitoring. Skilled in **ELK Stack**, **Splunk queries** and **incident investigation** workflows.
-- Detail-oriented Security Operations professional with hands-on experience in SIEM monitoring, threat detection, and incident response. Skilled in Splunk log analysis, alert triage, and event correlation to identify malicious activity and reduce false positives. Strong knowledge of Windows Event Log analysis and MITRE ATT&CK mapping, with the ability to support detection workflows and investigate security incidents in SOC environments.
+- Converting raw log data into actionable threat intelligence..
+- BCA graduate transitioning into cybersecurity with a focus on Security Operations and Threat Detection.
+  I've built hands-on SOC skills through real investigation projects using Splunk, Wazuh, and Elastic Stack — covering brute-force detection, phishing analysis, web shell detection, credential dumping, and persistence  monitoring. My work includes alert triage, IOC extraction, SPL query building, and MITRE ATT&CK mapping — all documented on GitHub with queries, dashboards, and incident reports.
 
 <a href="https://www.linkedin.com/in/asim-km/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://tryhackme.com/p/asimmhmd">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
@@ -13,8 +14,7 @@ Hello, I'm Asim 👋
 - **Name**: Muhammed Asim KM
 - **From**: India
 - **SOC AnalystT** | **Threat Hunter** | **Blue Team Learner**
-- Hands-on experience in **SIEM investigations**, **ELK analysis**, and **security monitoring**. Passionate about detecting threats, improving investigation skills, and growing toward advanced Blue Team operations
-</details>
+- I also practice blue-team scenarios regularly on TryHackMe  to keep my detection and investigation skills sharp.
 <br>
 
 ---
