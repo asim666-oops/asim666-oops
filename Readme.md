@@ -18,7 +18,7 @@ Hello, I'm Asim 👋
 <br>
 
 ---
-
+</details>
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
